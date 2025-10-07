@@ -217,5 +217,11 @@ nav a {
 nav a:hover {
   color: #f0ad4e;
 }
+nav {
+  background-color: #1f1f1f;
+  padding: 12px 20px;
+  text-align: center;
+}
+
 
 
