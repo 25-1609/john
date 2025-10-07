@@ -207,5 +207,15 @@ html { font-size: 16px; }       /* baseline for rem */
 .rgb-text { color: rgb(255,0,0); }           /* red */
 .hex-text { color: #00ff00; }                /* green */
 .hsl-text { color: hsl(240, 100%, 50%); }    /* blue */
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+}
+nav a:hover {
+  color: #f0ad4e;
+}
 
 
